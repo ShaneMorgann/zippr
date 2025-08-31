@@ -41,6 +41,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<a id="about-the-project"></a>
 ## 🎯 About The Project
 
 **zippr** is a personal exploration into the core systems that make a game engine—entity composition, rendering, input, resources, and configuration. While full-featured engines offer powerful abstractions, they often sacrifice the control and clarity that comes from writing code from scratch. The goal is to learn by building these pieces end-to-end and shape a cohesive toolkit for video games and other interactive applications.
@@ -54,6 +55,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GUIDING PRINCIPLES -->
+<a id="guiding-principles"></a>
 ## 🧭 Guiding Principles
 
 **zippr** will start by using a few best-in-class dependencies. This will allow the toolkit to become usable much faster. Over time, I will implement my own solutions to become dependency-free.
@@ -73,6 +75,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+<a id="roadmap"></a>
 ## 🗺️ Roadmap
 
 - **Phase 1**: 🚀 Leverage raylib, a data-serialization library, and possibly an ECS library
@@ -85,6 +88,7 @@
 
 
 <!-- GETTING STARTED -->
+<a id="getting-started"></a>
 ## 🚀 Getting Started
 
 > _Details coming soon._
@@ -93,6 +97,7 @@
 
 
 <!-- USAGE EXAMPLES -->
+<a id="usage"></a>
 ## 💡 Usage
 
 > _Details coming soon._
@@ -101,6 +106,7 @@
 
 
 <!-- LICENSE -->
+<a id="license"></a>
 ## 📄 License
 
 > _Details coming soon._
